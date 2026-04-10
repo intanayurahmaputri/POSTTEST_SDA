@@ -436,7 +436,7 @@ int main() {
         cout << "===================================================================\n";
         cout << "1. Tampil Jadwal\n";
         cout << "2. Tambah Kereta\n";
-        cout << "3. Cari Rute\n";
+        cout << "3. Cari Kereta Berdasarkan Rute\n";
         cout << "4. Cari Nomor Kereta (Jump Search)\n";
         cout << "5. Cari Nomor Kereta (Binary Search)\n";
         cout << "6. Urutkan Jadwal Berdasarkan Nama\n";
